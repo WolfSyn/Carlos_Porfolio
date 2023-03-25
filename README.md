@@ -8,11 +8,11 @@ Data Science Portfolio
   under them. 
   Also, I transfered this data to SQL to manage and add more data when i need to add more members into this chart
 
-![](https://github.com/WolfSyn/Carlos_Porfolio/blob/main/excelimage1.png) 
+![](main/excelimage1.png) 
 
 # [project 2: Cosmetics inc - retail](https://github.com/WolfSyn/Carlos_Porfolio) 
 I've created this spreadsheet that tracks three stores that collects data on how much money they have made in the past month...
 This spreadsheet i made myself and had references from my old job that helped me make this. 
 i've used SQL Funtions to add more data into this excel file, and also added a vizual so you can see it more clearly on how much they've made...
 
-![](https://github.com/WolfSyn/Carlos_Porfolio/blob/main/excelimage2.png)
+![](main/excelimage2.png)
